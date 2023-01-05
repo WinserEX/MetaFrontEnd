@@ -5,11 +5,16 @@
 
   .child {
     display: block;
-    width: 50%;
+    width: 20%;
     padding: 20px;
     border: 4px solid green;
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
     margin-bottom: 50px;
+  }
+
+  .child2 {
+    width: 20%;
+    float: right;
   }
